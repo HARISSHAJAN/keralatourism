@@ -170,34 +170,4 @@ form input {
     .districts {
         text-align: center;
     }
-
-    #hero-text h1 {
-        font-size: 8vw ;
-    }
-    #hero-text a {
-        font-size: 2vw ;
-    }
-}
-
-@media (max-width:600px) {
-    .navbar-links {
-        display: none;
-    }
-
-    .navbar-toggler {
-        display: block;
-    }
-
-    form input {
-    padding :5px 25px 5px 5px; 
-}
-
-    form {
-        padding: 20px;
-    }
-}
-@media (max-width:400px) {
-    #hero-text {
-
-    }
 }
